@@ -56,7 +56,7 @@ The projects are group into their various certifications just as in FCC
 | #    | Project                    | Complete Date | GitHub Repo URL                                              |
 | ---- | -------------------------- | ------------- | ------------------------------------------------------------ |
 | 1    | Palindrome Checker         | 10-Nov-2020   | [See Code - GitHub](https://github.com/aayaat/Palindrome-Checker) |
-| 2    | Roman Numeral Converter    |               |                                                              |
+| 2    | Roman Numeral Converter    | 07-Jan-2021   | [See Code - GitHub](https://github.com/aayaat/Roman-Numeral-Converter) |
 | 3    | Caesars Cipher             |               |                                                              |
 | 4    | Telephone Number Validator |               |                                                              |
 | 5    | Cash Register              |               |                                                              |
