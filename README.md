@@ -26,12 +26,12 @@ The basis for these workshops are to:
 
 Do the following to get started:
 
-- Fork this repository
-- For each project create a new repository (each project should live in its own repository).
-- Once you complete a project push your final code to GitHub
-- Got to your forked version of this workshop and fill in the project details below. (the completion date and the URL to the project repository)
-- Push it up
-- Repeat for each project
+1. Fork this repository
+2. For each project create a new repository (each project should live in its own repository).
+3. Once you complete a project push your final code to GitHub
+4. Got to your forked version of this workshop and fill in the project details below. (the completion date and the URL to the project repository)
+5. Push it up
+6. Repeat for each project from step 2
 
 
 
@@ -44,9 +44,9 @@ The projects are group into their various certifications just as in FCC
 | #    | Project                              | Complete Date | GitHub Repo URL                                              |
 | ---- | ------------------------------------ | ------------- | ------------------------------------------------------------ |
 | 1    | Build a Tribute Page                 | 12-Nov-2020   | [See code - Github](https://github.com/aturaab40/-Build-a-Tribute-Page) |
-| 2    | Build a Survey Form                  |               |                                                              |
-| 3    | Build a Product Landing Page         |               |                                                              |
-| 4    | Build a Technical Documentation Page |               |                                                              |
+| 2    | Build a Survey Form                  | 22-Nov-2020   | [See code - GitHub](https://aayaat.github.io/Build-A-Survey-Form/) |
+| 3    | Build a Product Landing Page         | 23-Nov-2020   | [See code - GitHub](https://aayaat.github.io/Build-a-Product-Landing-Page/) |
+| 4    | Build a Technical Documentation Page | 25-Nov-2020   | [See Code - GitHub](https://aayaat.github.io/Build-a-Technical-Documentation-Page-master/) |
 | 5    | Build a Personal Portfolio Webpage   |               |                                                              |
 
 
@@ -116,4 +116,4 @@ The projects are group into their various certifications just as in FCC
 - [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/)
+- [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/)z
