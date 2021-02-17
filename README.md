@@ -57,7 +57,7 @@ The projects are group into their various certifications just as in FCC
 | ---- | -------------------------- | ------------- | ------------------------------------------------------------ |
 | 1    | Palindrome Checker         | 10-Nov-2020   | [See Code - GitHub](https://github.com/aayaat/Palindrome-Checker) |
 | 2    | Roman Numeral Converter    | 07-Jan-2021   | [See Code - GitHub](https://github.com/aayaat/Roman-Numeral-Converter) |
-| 3    | Caesars Cipher             |               |                                                              |
+| 3    | Caesars Cipher             | 31-Jan-2021   | [See Code - GitHub](https://github.com/aayaat/Caesars-Cipher) |
 | 4    | Telephone Number Validator |               |                                                              |
 | 5    | Cash Register              |               |                                                              |
 
@@ -116,4 +116,4 @@ The projects are group into their various certifications just as in FCC
 - [MDN HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [MDN CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [MDN JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/)z
+- [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/)
